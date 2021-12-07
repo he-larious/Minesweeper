@@ -1,2 +1,2 @@
 # Minesweeper
-COP3503 Project 3
+COP3503 Programming Fundamentals 2 - Project 3
